@@ -1,4 +1,10 @@
 {
   "name": "TrussIdSdkRNDemo",
-  "displayName": "TrussIdSdkRNDemo"
+  "displayName": "TrussIdSdkRNDemo",
+  "android": {
+    "package": "com.anonymous.trussidsdkrndemo"
+  },
+  "ios": {
+    "bundleIdentifier": "com.anonymous.trussidsdkrndemo"
+  }
 }
